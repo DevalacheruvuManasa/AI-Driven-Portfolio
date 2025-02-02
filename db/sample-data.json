@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "info":" Lakshmi Manasa Devalacheruvu",
+        "description":"I am a 3rd-year Computer Science Engineering student with a strong foundation in software development, data structures, and algorithms. I am passionate about problem-solving, coding, and developing impactful software solutions. I am eager to apply my academic knowledge in real-world scenarios and continue learning and growing in the tech field."
+   },
+   {
+    "id":2,
+    "info":"Experience",
+    "description":"Worked as a Full Stack intern on frontend part of the Borrow App project from September 2, 2024, to November 20, 2024. Contributed to the MERN stack development, focusing on High-Level Design (HLD) and Low-Level Design (LLD) for scalability. Developed core frontend features using React.js and integrated APIs for seamless data flow. Collaborated closely with the backend team to ensure smooth functionality and efficient user experience."
+},
+{
+    "id":3,
+    "info":"Education",
+    "description":"I am currently in my 3rd year of graduation in Computer Science Engineering, with a GPA of 8.32. Prior to this, I completed my Pre-University Course (PUC) with a GPA of 9.42 and my Secondary School Certificate (SSC) with a perfect GPA of 10. These academic achievements reflect my strong commitment to learning and my consistent performance throughout my educational journey."
+
+
+},
+{
+    "id":9,
+    "info":"Skills",
+    "description":"I am a quick learner with strong leadership abilities, demonstrating dedication and a proactive approach in all my work. I excel at managing tasks efficiently, collaborating with teams, and adapting to new challenges. My ability to take initiative and stay committed to goals enables me to contribute effectively in any environment."
+
+
+},
+{
+    "id":8,
+    "info":"Certifications",
+    "description":"I have been recognized for my dedication and contributions with an experience letter from Milknmore for my work on the Borrow App project. Additionally, I am a certified Full Stack Developer, showcasing my expertise in both frontend and backend development. These certifications highlight my commitment to learning, hands-on experience, and ability to develop scalable applications."
+
+
+},
+{
+    "id":5,
+    "info":"Projects",
+    "description":"1.AI Driven Portfolio Application 2.RestFul CRUD API"
+},
+{
+    "id":6,
+    "info":"AI Driven Portfolio",
+    "description":"I developed an AI-driven portfolio application using Next.js and React for dynamic user interfaces. The project incorporated vector embeddings via OpenAI's API to enhance search functionality, with data management handled through Supabase's pgvector extension. This integration resulted in a responsive and intelligent platform, showcasing advanced AI and modern web development practices."
+},
+{
+    "id":7,
+    "info":"RestFul CRUD API",
+    "description":"Developed a RESTful API using Spring Boot and MySQL for CRUD operations. Implemented and tested endpoints to manage data seamlessly, using Postman for API testing. This project highlights my skills in backend development, database management, and building scalable APIs."
+
+
+},
+{
+    "id":4,
+    "info":"Technical Skills",
+    "description":"I am proficient in Java, C (basic), and Python (basic), with strong knowledge of Data Structures and Algorithms (DSA). I have hands-on experience in web development using HTML, CSS, JavaScript, Bootstrap, and Next.js, and I am skilled in Git and GitHub for version control. Additionally, I have experience in debugging and optimizing code for projects like AI portfolios, Spring Boot CRUD APIs, and MERN stack applications."
+}
+
+]
